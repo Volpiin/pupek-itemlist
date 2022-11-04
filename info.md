@@ -49,7 +49,7 @@ Twitch Toolkit is a mod by hodlhodl that allows viewers to affect the game in a 
 most prominent is its [store]({{- "/" | relative_url -}}), which allows you to purchase a number of
 things the streamer curated. Depending on the purchase, these things appear in-game or affect the
 game in some way. Another way viewers can interact with the game is through the mod's polls. The
-choices in these polls depend heavily on what's enabled in the mod.
+choices in these polls depend heavily on what's enabled in the mod. Penis!
 
 ## What Are Coins?
 
