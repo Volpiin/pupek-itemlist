@@ -272,7 +272,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 3600,
 		"karmatype": "Good"
 	},
 	{
@@ -302,7 +302,7 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 800,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -332,7 +332,7 @@
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
+		"price": 5600,
 		"karmatype": "Good"
 	},
 	{
